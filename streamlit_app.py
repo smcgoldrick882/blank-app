@@ -113,7 +113,7 @@ def display_workout(week, day, auto_reg):
 
 # === App UI ===
 
-st.title("Conjugate Training Cheat Sheet")
+st.title("8 Keys Cheat Sheet")
 
 week = st.selectbox("Select Week", list(range(1, 10)))
 day = st.selectbox(
